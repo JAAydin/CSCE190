@@ -1,0 +1,41 @@
+body{
+    background: #2d283e;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.assignments{
+    display:flex;
+    flex-wrap:wrap;
+}
+
+.assignment img{
+    width: 200px;
+    margin: 10px;
+    border:2px solid #E5FCFF
+}
+.assignment{
+    background: #564f6f;
+    width:20%;
+    padding: 10px;
+    margin: 15px;
+    border-radius: 10px;
+}
+
+h1{
+    color: #802BB1;
+    text-align: center;
+}
+h2{
+    text-align:center;
+    color:#F1E8E5
+}
+a {
+    text-decoration: none;
+    color:#F1E8E5
+}
+p{
+    text-decoration: none;
+    color:#F1E8E5
+}
+a:hover {
+    color:#F1E8E5
+}
