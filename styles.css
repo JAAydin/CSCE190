@@ -8,8 +8,10 @@ body{
 }
 
 .assignment img{
-    width: 200px;
-    margin: 10px;
+    display:block;
+    width: 70%;
+    margin-left: auto;
+    margin-right:auto;
     border:2px solid #E5FCFF
 }
 .assignment{
